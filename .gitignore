@@ -1,2 +1,4 @@
 *.js
-t.txt
+*.txt
+test.sh
+
